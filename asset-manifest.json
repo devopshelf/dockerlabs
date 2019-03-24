@@ -1,0 +1,15 @@
+{
+  "main.css": "/dockerlabs/static/css/main.2685b430.chunk.css",
+  "main.js": "/dockerlabs/static/js/main.a9c81d58.chunk.js",
+  "main.js.map": "/dockerlabs/static/js/main.a9c81d58.chunk.js.map",
+  "runtime~main.js": "/dockerlabs/static/js/runtime~main.6313b143.js",
+  "runtime~main.js.map": "/dockerlabs/static/js/runtime~main.6313b143.js.map",
+  "static/css/2.364bb8bc.chunk.css": "/dockerlabs/static/css/2.364bb8bc.chunk.css",
+  "static/js/2.d10474a6.chunk.js": "/dockerlabs/static/js/2.d10474a6.chunk.js",
+  "static/js/2.d10474a6.chunk.js.map": "/dockerlabs/static/js/2.d10474a6.chunk.js.map",
+  "index.html": "/dockerlabs/index.html",
+  "precache-manifest.9f9326e12f223302d892a80fc37fe08f.js": "/dockerlabs/precache-manifest.9f9326e12f223302d892a80fc37fe08f.js",
+  "service-worker.js": "/dockerlabs/service-worker.js",
+  "static/css/2.364bb8bc.chunk.css.map": "/dockerlabs/static/css/2.364bb8bc.chunk.css.map",
+  "static/css/main.2685b430.chunk.css.map": "/dockerlabs/static/css/main.2685b430.chunk.css.map"
+}
