@@ -17,7 +17,7 @@ export default () => {
             <NavLink target="blank" href="https://github.com/devopshelf/docker-cheatsheet/blob/master/README.md">Cheatsheet</NavLink>
             </NavItem>
             <NavItem>
-            <NavLink target="blank" href="https://docs.docker.com/">Docs</NavLink>
+            <NavLink target="blank" href="https://github.com/devopshelf/dockerfile-examples">Examples</NavLink>
             </NavItem>
             <NavItem>
             <NavLink target="blank" href="https://github.com/devopshelf">
