@@ -1,17 +1,19 @@
-sudo: required
-services:
-  - docker
-
+language: node_js
+node_js:
+  - "stable"
+cache:
+  directories:
+    - node_modules
 script:
-  - docker build -t dockerlabs .
-
+  - npm run build
 deploy:
   provider: pages
-  local-dir: build/
+  local-dir: build
   skip-cleanup: true
-  github-token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
-  keep-history: true
+  github-token: $GITHUB_TOKEN 
   on:
     branch: master
+
+
     
   
